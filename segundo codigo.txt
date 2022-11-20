@@ -1,1 +1,2 @@
-Meu seundo código/repositório com commit.
+Meu segundo código/repositório com commit.
+Segunda linha/atualização.
